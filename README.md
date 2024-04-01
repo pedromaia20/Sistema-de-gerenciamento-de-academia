@@ -1,4 +1,4 @@
-# <h1 align="center"> SIIM - Sistema de Gerenciamento de Academia </h1> 
+# <h1 align="center"> Sistema de Gerenciamento de Academia </h1> 
 
 # Discrição do Projeto
 O sistema de gerenciamento da academia foi desenvolvido para facilitar o registro
